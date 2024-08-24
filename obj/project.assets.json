@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\MACORATTI_C#_ESSENCIAL\\Generics\\09_HashSet_DesafioGPT\\09_HashSet_DesafioGPT.csproj",
-      "projectName": "09_HashSet_DesafioGPT",
-      "projectPath": "A:\\MACORATTI_C#_ESSENCIAL\\Generics\\09_HashSet_DesafioGPT\\09_HashSet_DesafioGPT.csproj",
+      "projectUniqueName": "A:\\MACORATTI_C#_ESSENCIAL\\Generics\\09_HashSet_DesafioGPT\\09_HashSet_.csproj",
+      "projectName": "09_HashSet_",
+      "projectPath": "A:\\MACORATTI_C#_ESSENCIAL\\Generics\\09_HashSet_DesafioGPT\\09_HashSet_.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
       "outputPath": "A:\\MACORATTI_C#_ESSENCIAL\\Generics\\09_HashSet_DesafioGPT\\obj\\",
       "projectStyle": "PackageReference",
