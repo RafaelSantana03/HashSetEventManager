@@ -1,0 +1,14 @@
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\bin\Debug\net8.0\09_HashSet_DesafioGPT.exe
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\bin\Debug\net8.0\09_HashSet_DesafioGPT.deps.json
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\bin\Debug\net8.0\09_HashSet_DesafioGPT.runtimeconfig.json
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\bin\Debug\net8.0\09_HashSet_DesafioGPT.dll
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\bin\Debug\net8.0\09_HashSet_DesafioGPT.pdb
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\obj\Debug\net8.0\09_HashSet_DesafioGPT.GeneratedMSBuildEditorConfig.editorconfig
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\obj\Debug\net8.0\09_HashSet_DesafioGPT.AssemblyInfoInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\obj\Debug\net8.0\09_HashSet_DesafioGPT.AssemblyInfo.cs
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\obj\Debug\net8.0\09_HashSet_DesafioGPT.csproj.CoreCompileInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\obj\Debug\net8.0\09_HashSet_DesafioGPT.dll
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\obj\Debug\net8.0\refint\09_HashSet_DesafioGPT.dll
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\obj\Debug\net8.0\09_HashSet_DesafioGPT.pdb
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\obj\Debug\net8.0\09_HashSet_DesafioGPT.genruntimeconfig.cache
+A:\MACORATTI_C#_ESSENCIAL\Generics\09_HashSet_DesafioGPT\obj\Debug\net8.0\ref\09_HashSet_DesafioGPT.dll

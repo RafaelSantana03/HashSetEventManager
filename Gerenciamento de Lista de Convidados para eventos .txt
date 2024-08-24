@@ -1,0 +1,32 @@
+﻿Exercício: Gerenciamento de Lista de Convidados para Eventos
+Imagine que você é responsável por gerenciar a lista de convidados para três diferentes eventos. Você precisa garantir que os convidados sejam organizados de forma eficiente, evitando duplicações e realizando operações específicas de conjunto para gerenciar as listas de convidados.
+
+Requisitos:
+Instancie três HashSet<string>:
+
+Um para convidados do Evento A.
+Um para convidados do Evento B.
+Um para convidados do Evento C.
+Preencha cada HashSet com alguns nomes (certifique-se de que alguns nomes se repitam entre os eventos).
+
+Exiba as listas de convidados para cada evento usando uma função como ExibirColecao.
+
+Verifique se todos os convidados do Evento A também estão no Evento B (use IsSubsetOf).
+
+Adicione novos convidados ao Evento C se eles ainda não estiverem na lista (use Contains e Add).
+
+Encontre e exiba a interseção de convidados entre o Evento A e o Evento C (use IntersectWith).
+
+Remova do Evento B todos os convidados que também estão no Evento C (use ExceptWith).
+
+Junte todas as listas de convidados em uma única lista de convidados para um Grande Evento Final, onde ninguém será repetido (use UnionWith).
+
+Ordene e exiba a lista final de convidados (use SortedSet).
+
+Limpe todas as listas de convidados originais (use Clear).
+
+Exiba uma mensagem final confirmando que todas as listas foram esvaziadas.
+
+Objetivo
+Praticar a manipulação de conjuntos utilizando os métodos principais do HashSet, como UnionWith, IntersectWith, ExceptWith, IsSubsetOf, Contains, Add, e Clear.
+Entender como essas operações podem ser aplicadas em situações práticas de gerenciamento de listas.
