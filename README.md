@@ -25,11 +25,3 @@ Você pode executar este projeto em uma IDE como Visual Studio ou qualquer edito
 ## Conclusão
 
 Este foi um exercício valioso para reforçar os conceitos de coleções em C#. O processo de desenvolvimento ajudou a aprofundar meu entendimento de como utilizar `HashSet` e `SortedSet` para manipular conjuntos de dados de maneira eficiente.
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
