@@ -1,4 +1,4 @@
-# EventGuestManagement
+# HashSetEventManagement
 
 Este projeto foi criado como um desafio proposto pelo ChatGPT para aplicar e fixar os conceitos que estudei sobre `HashSet` e `SortedSet` em C#. O objetivo foi desenvolver um pequeno projeto de gerenciamento de listas de convidados para eventos, utilizando esses recursos.
 
