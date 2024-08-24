@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09_HashSet_")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6edb70f6a99b84208636dd7f258ae94720968200")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcb69b92547ea55c2b8a14224da490e1b2158fec")]
 [assembly: System.Reflection.AssemblyProductAttribute("09_HashSet_")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09_HashSet_")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
