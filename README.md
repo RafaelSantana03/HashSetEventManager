@@ -14,6 +14,9 @@ O projeto simula a organização de listas de convidados para três eventos dife
 - **Ordenar e exibir a lista final de convidados:** Implementado com `SortedSet` para garantir a ordenação alfabética.
 - **Limpar todas as listas de convidados após o evento.**
 
+## Resultado
+![Captura de tela 2024-08-23 211311](https://github.com/user-attachments/assets/eb3c4db2-f954-4ea0-bfe5-18a6c9fc0d22)
+
 ## Motivação
 
 A ideia de solicitar um desafio ao ChatGPT foi para consolidar o que aprendi sobre `HashSet` e `SortedSet` durante meus estudos. Este exercício me permitiu praticar a implementação desses conceitos em um cenário realista e fortalecer minha compreensão.
